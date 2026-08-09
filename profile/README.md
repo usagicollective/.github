@@ -6,4 +6,6 @@
 
 [うさぎ衰弱](https://usagicollective.com/usagi-suijaku/)
 
+[こきちゃなパズル](https://usagicollective.com/kokichana2026/puzzle/)
+
 </div>
