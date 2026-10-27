@@ -4,8 +4,12 @@
 
 [usagicollective.com](https://usagicollective.com)
 
+[USAGI COLLECTIVE 紹介ページ](https://usagicollective.com/landing/)
+
 [うさぎ衰弱](https://usagicollective.com/usagi-suijaku/)
 
 [こきちゃなパズル](https://usagicollective.com/kokichana2026/puzzle/)
+
+[Dream Trip -夢の旅-](https://usagicollective.com/dream-trip/)
 
 </div>
