@@ -4,7 +4,7 @@
 
 [usagicollective.com](https://usagicollective.com)
 
-[USAGI COLLECTIVE 紹介ページ](https://usagicollective.com/landing/)
+[USAGI COLLECTIVE サービス紹介ページ](https://usagicollective.com/landing/)
 
 [うさぎ衰弱](https://usagicollective.com/usagi-suijaku/)
 
